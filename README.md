@@ -1,0 +1,2 @@
+# eventmanch
+To manage events
